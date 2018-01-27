@@ -1,6 +1,10 @@
-# admin
+# Vuejs Admin Dashboard
 
-> Admin backend for a firebase project
+> Admin dashboard written in Vue.js implementing Bulma
+
+## Acknowledgement
+
+The software within this repository has been modified from [Vue Admin](https://github.com/vue-bulma/vue-admin)
 
 ## Build Setup
 
