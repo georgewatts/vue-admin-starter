@@ -1,0 +1,1 @@
+const sidebar = state => state.app.sidbar
